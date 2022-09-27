@@ -30,3 +30,13 @@ Remember also to answer all written questions in the exercise, in addition to th
  - [Problem 1 - Making changes to code and using Git (3 points)](Exercise-2.ipynb)
  - [Problem 2 - Monthly average temperatures (5 points)](Exercise-2.ipynb)
  - [Problem 3 - Markdown practice (2 points)](Exercise-2.ipynb)
+
+## Exercise 2 grade and feedback: 5.5 / 10.0 points
+### Grader
+- graderbot (*awaiting review by a course grader!*)
+### Problem scores
+- Problem 1: 2.5 / 3.0 
+- Problem 2: 3.0 / 5.0 
+- Problem 3: 0.0 / 2.0 
+### Comments
+- Comments will be added here.
