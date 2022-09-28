@@ -31,12 +31,22 @@ Remember also to answer all written questions in the exercise, in addition to th
  - [Problem 2 - Monthly average temperatures (5 points)](Exercise-2.ipynb)
  - [Problem 3 - Markdown practice (2 points)](Exercise-2.ipynb)
 
-## Exercise 2 grade and feedback: 5.5 / 10.0 points
+## Exercise 2 grade and feedback: 9.0 / 10.0 points
 ### Grader
-- graderbot (*awaiting review by a course grader!*)
+- Justus :sunglasses:
 ### Problem scores
-- Problem 1: 2.5 / 3.0 
-- Problem 2: 3.0 / 5.0 
-- Problem 3: 0.0 / 2.0 
+- Problem 1: 3.0 / 3.0 
+- Problem 2: 5.0 / 5.0 
+- Problem 3: 1.0 / 2.0 
 ### Comments
-- Comments will be added here.
+- Always remember to delete the 'raise NotImplementedError()'. We use it to run our tests and if it is not removed the automated graderbot will assume the exercise is not done.
+- In problem 1 part 2, instead of appending 3 times a new element to the list, you can also extend() a list with a list:
+
+    ``` 
+        station_start_years = [2003, 1989, 2016, 2005, 1844]
+        station_start_years.extend([1937, 2012, 1904])
+    ```
+
+- You didn't use a Markdown list :pensive:
+- A CSC Notebook is not linked to any GitHub username. You clone the gh repository to the notebook. Do you still have issues with it?
+- Meow! :cat:
